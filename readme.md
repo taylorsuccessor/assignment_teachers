@@ -1,10 +1,20 @@
 #How to run 
 
 >> install docker
+
+
 >> install docker-compose
+
+
 >>clone the project
+
+
 >> cd to/project/path
+
+
 >>docker-compose build
+
+
 >>docker-compose up
 
 
